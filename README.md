@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**sandeep655/sandeep655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Sandeep Kumar, a Senior Data Scientist with over 6 years of experience working across Machine Learning, NLP, and Data Science domains. 
 
-Here are some ideas to get you started:
+🚀 Currently, I'm pursuing a Master's in AI at the National College of Ireland, expanding my knowledge of artificial intelligence, MLOps, and cutting-edge technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 My key skills include:
+- Natural Language Processing (NLP)
+- Deep Learning & Machine Learning
+- Data Engineering (PySpark, Databricks)
+- Model Deployment (Azure, MLOps)
+- Data Governance and RAG (Retrieval-Augmented Generation)
+
+🔭 I am passionate about leveraging AI to create impactful solutions that transform industries. I enjoy collaborating with teams to deliver value through data-driven insights and innovative technologies.
